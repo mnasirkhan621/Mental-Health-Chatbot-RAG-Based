@@ -1,0 +1,22 @@
+# Virtual env (do NOT commit)
+bot_venv/
+venv/
+env/
+
+
+
+# Large/local data (optional: re-add if needed for deploy)
+knowledge_base/
+vector_store/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
